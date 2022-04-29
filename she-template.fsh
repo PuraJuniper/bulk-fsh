@@ -31,7 +31,7 @@ Usage: #example
 //Set to a random date between {{birthDate}} (Patient birth date) to {{date_today}} (date of test-case generation)
 * occurrenceDateTime =  "{{date}}"
 * performer.actor = Reference(IMMZ-Organization-{{suffix}})
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-{{suffix}})
 //Vaccine name: {{imm.vaccineName}}
 //Series name: {{imm.vaccineSeriesName}}
