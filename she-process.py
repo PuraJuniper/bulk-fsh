@@ -51,6 +51,14 @@ def genfsh(lang):
         "birth_date": fake.date_between(start_date='-24m', end_date='-12m'),
         "adm_gender": 'female',
     }, {
+        "type": "child-m",
+        "birth_date": fake.date_between(start_date='-2y', end_date='-8y'),
+        "adm_gender": 'male',
+    }, {
+        "type": "child-f",
+        "birth_date": fake.date_between(start_date='-2y', end_date='-8y'),
+        "adm_gender": 'female',
+    }, {
         "type": "teen-m",
         "birth_date": fake.date_between(start_date='-16y', end_date='-13y'),
         "adm_gender": 'male',
