@@ -56,8 +56,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Cholera
 //Series name: CVD 103-HgR live attenuated oral cholera vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Dengue-enadult-f
 InstanceOf: IPSImmunization
@@ -78,7 +78,7 @@ Usage: #example
 //Vaccine name: Dengue
 //Series name: None
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Diphtheria-enadult-f
 InstanceOf: IPSImmunization
@@ -98,8 +98,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Diphtheria
 //Series name: Haemophilus b oligosaccharide conjugate(diphtheria CRM>197< protein conjugate) vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Haemophilus-influenzae-B-enadult-f
 InstanceOf: IPSImmunization
@@ -119,8 +119,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Haemophilus-influenzae-B
 //Series name: Diphtheria + pertussis + tetanus + Haemophilus influenzae type b vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 3
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Hepatitis-A-enadult-f
 InstanceOf: IPSImmunization
@@ -140,8 +140,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Hepatitis-A
 //Series name: Hepatitis A vaccine injection suspension 0.5 mL prefilled syringe (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Hepatitis-B-enadult-f
 InstanceOf: IPSImmunization
@@ -182,8 +182,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: HPV
 //Series name: Human papillomavirus vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 3
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Japanese-Encephalitis-enadult-f
 InstanceOf: IPSImmunization
@@ -224,8 +224,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Measles
 //Series name: Measles vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Meningococcal-enadult-f
 InstanceOf: IPSImmunization
@@ -246,7 +246,7 @@ Usage: #example
 //Vaccine name: Meningococcal
 //Series name: Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine/Hepatitis B Surface Antigen Vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Mumps-enadult-f
 InstanceOf: IPSImmunization
@@ -267,7 +267,7 @@ Usage: #example
 //Vaccine name: Mumps
 //Series name: Mumps virus vaccine live injection solution 0.5mL vial (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Pertussis-enadult-f
 InstanceOf: IPSImmunization
@@ -288,7 +288,7 @@ Usage: #example
 //Vaccine name: Pertussis
 //Series name: Diphtheria + pertussis + tetanus vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Pneumococcal-enadult-f
 InstanceOf: IPSImmunization
@@ -308,8 +308,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Pneumococcal
 //Series name: Pneumococcal vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Polio-enadult-f
 InstanceOf: IPSImmunization
@@ -329,8 +329,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Polio
 //Series name: Diphtheria + tetanus + pertussis + inactivated poliovirus vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 4
 
 Instance: IMMZ-Immunization-Rabies-enadult-f
 InstanceOf: IPSImmunization
@@ -351,7 +351,7 @@ Usage: #example
 //Vaccine name: Rabies
 //Series name: Rabies inactivated vaccine powder and solvent for injection solution vial (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Rotavirus-enadult-f
 InstanceOf: IPSImmunization
@@ -371,8 +371,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Rotavirus
 //Series name: Rotavirus vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Rubella-enadult-f
 InstanceOf: IPSImmunization
@@ -435,7 +435,7 @@ Usage: #example
 //Vaccine name: Tetanus
 //Series name: Haemophilus influenzae Type b + tetanus vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Tick-Borne-Encephalitis-enadult-f
 InstanceOf: IPSImmunization
@@ -455,8 +455,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Tick-Borne-Encephalitis
 //Series name: Tick-borne encephalitis vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Typhoid-enadult-f
 InstanceOf: IPSImmunization
@@ -476,8 +476,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Typhoid
 //Series name: Hepatitis A 1440u//typhoid 25mcg vaccine injection solution 1mL prefilled syringe (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 3
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Varicella-enadult-f
 InstanceOf: IPSImmunization
@@ -498,7 +498,7 @@ Usage: #example
 //Vaccine name: Varicella
 //Series name: Varicella virus live vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Yellow-Fever-enadult-f
 InstanceOf: IPSImmunization

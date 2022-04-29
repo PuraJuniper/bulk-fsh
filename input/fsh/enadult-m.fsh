@@ -77,8 +77,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-m)
 //Vaccine name: Dengue
 //Series name: None
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Diphtheria-enadult-m
 InstanceOf: IPSImmunization
@@ -99,7 +99,7 @@ Usage: #example
 //Vaccine name: Diphtheria
 //Series name: Haemophilus b oligosaccharide conjugate(diphtheria CRM>197< protein conjugate) vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 5
 
 Instance: IMMZ-Immunization-Haemophilus-influenzae-B-enadult-m
 InstanceOf: IPSImmunization
@@ -119,8 +119,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-m)
 //Vaccine name: Haemophilus-influenzae-B
 //Series name: Diphtheria + pertussis + tetanus + Haemophilus influenzae type b vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Hepatitis-A-enadult-m
 InstanceOf: IPSImmunization
@@ -140,8 +140,8 @@ Usage: #example
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-m)
 //Vaccine name: Hepatitis-A
 //Series name: Hepatitis A vaccine injection suspension 0.5 mL prefilled syringe (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.doseNumberPositiveInt = 2
+* protocolApplied.seriesDosesPositiveInt = 2
 
 Instance: IMMZ-Immunization-Hepatitis-B-enadult-m
 InstanceOf: IPSImmunization
@@ -162,28 +162,7 @@ Usage: #example
 //Vaccine name: Hepatitis-B
 //Series name: Hepatitis B virus recombinant vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
-
-Instance: IMMZ-Immunization-HPV-enadult-m
-InstanceOf: IPSImmunization
-Usage: #example
-// Title: ""
-// Description: ""
-* status = #completed
-* vaccineCode = SCT#424519000 "Human papillomavirus vaccine (product)"
-* expirationDate = "2024-06-30"
-* lotNumber = "123"
-* patient = Reference(IMMZ-Patient-enadult-m)
-* location.display = "Vaccination Site"
-//Set to a random date between 1993-07-29 (Patient birth date) to 2022-04-29 (date of test-case generation)
-* occurrenceDateTime =  "2019-07-14"
-* performer.actor = Reference(IMMZ-Organization-enadult-m)
-//check what protol applied requirements there are
-* protocolApplied.authority = Reference(IMMZ-Organization-enadult-m)
-//Vaccine name: HPV
-//Series name: Human papillomavirus vaccine (product)
-* protocolApplied.doseNumberPositiveInt = 1
-* protocolApplied.seriesDosesPositiveInt = 1
+* protocolApplied.seriesDosesPositiveInt = 3
 
 Instance: IMMZ-Immunization-Japanese-Encephalitis-enadult-m
 InstanceOf: IPSImmunization
