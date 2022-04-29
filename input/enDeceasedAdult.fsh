@@ -7,4 +7,4 @@ Usage:        #example
 * name[=].use = #official
 * birthDate = "1995-04-08"
 * gender = #female
-* deceasedBoolean = #True
+* deceasedBoolean = true
