@@ -80,3 +80,21 @@ Usage: #example
 //Series name: Diphtheria + tetanus + pertussis + inactivated poliovirus vaccine (product)
 * protocolApplied.doseNumberPositiveInt = 1
 * protocolApplied.seriesDosesPositiveInt = 5
+
+Instance: preterm-eninfant-f
+InstanceOf: Observation
+Usage: #example
+* status = #final
+* code = SCT#302080006 "Finding of birth outcome (finding)"
+* subject = Reference(Patient/IMMZ-Patient-eninfant-f)
+* effectiveDateTime = "2022-04-28"
+* valueCodeableConcept = SCT#367494004 "Premature birth of newborn (finding)"
+
+Instance: birthweightnormal-eninfant-f
+InstanceOf: Observation
+Usage: #example
+* status = #final
+* code = SCT#276610007 "Birthweight"
+* subject = Reference(Patient/IMMZ-Patient-eninfant-f)
+* effectiveDateTime = "2022-04-28"
+* valueQuantity = 6855 'g' "gram"
