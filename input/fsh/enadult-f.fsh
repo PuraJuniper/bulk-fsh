@@ -31,7 +31,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: BCG
 //Series name: Product containing attenuated Bacillus Calmette Guerin (medicinal product)
@@ -52,7 +52,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Cholera
 //Series name: CVD 103-HgR live attenuated oral cholera vaccine (product)
@@ -73,7 +73,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Dengue
 //Series name: None
@@ -94,7 +94,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Diphtheria
 //Series name: Haemophilus b oligosaccharide conjugate(diphtheria CRM>197< protein conjugate) vaccine (product)
@@ -115,7 +115,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Haemophilus-influenzae-B
 //Series name: Diphtheria + pertussis + tetanus + Haemophilus influenzae type b vaccine (product)
@@ -136,7 +136,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Hepatitis-A
 //Series name: Hepatitis A vaccine injection suspension 0.5 mL prefilled syringe (product)
@@ -157,7 +157,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Hepatitis-B
 //Series name: Hepatitis B virus recombinant vaccine (product)
@@ -178,7 +178,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: HPV
 //Series name: Human papillomavirus vaccine (product)
@@ -199,7 +199,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Japanese-Encephalitis
 //Series name: Japanese B encephalitis vaccine (product)
@@ -220,7 +220,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Measles
 //Series name: Measles vaccine (product)
@@ -241,7 +241,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Meningococcal
 //Series name: Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine/Hepatitis B Surface Antigen Vaccine (product)
@@ -262,7 +262,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Mumps
 //Series name: Mumps virus vaccine live injection solution 0.5mL vial (product)
@@ -283,7 +283,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Pertussis
 //Series name: Diphtheria + pertussis + tetanus vaccine (product)
@@ -304,7 +304,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Pneumococcal
 //Series name: Pneumococcal vaccine (product)
@@ -325,7 +325,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Polio
 //Series name: Diphtheria + tetanus + pertussis + inactivated poliovirus vaccine (product)
@@ -346,7 +346,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Rabies
 //Series name: Rabies inactivated vaccine powder and solvent for injection solution vial (product)
@@ -367,7 +367,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Rotavirus
 //Series name: Rotavirus vaccine (product)
@@ -388,7 +388,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Rubella
 //Series name: Live measles + rubella vaccine injection dose form (product)
@@ -409,7 +409,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Seasonal-Influenza
 //Series name: Inactivated Influenza surface antigen virosome vaccine prefilled syringe (product)
@@ -430,7 +430,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Tetanus
 //Series name: Haemophilus influenzae Type b + tetanus vaccine (product)
@@ -451,7 +451,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Tick-Borne-Encephalitis
 //Series name: Tick-borne encephalitis vaccine (product)
@@ -472,7 +472,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Typhoid
 //Series name: Hepatitis A 1440u//typhoid 25mcg vaccine injection solution 1mL prefilled syringe (product)
@@ -493,7 +493,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Varicella
 //Series name: Varicella virus live vaccine (product)
@@ -514,7 +514,7 @@ Usage: #example
 //Set to a random date between 1996-04-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2021-02-02"
 * performer.actor = Reference(IMMZ-Organization-enadult-f)
-//check what protol applied requirements there are
+//check what protocol applied requirements there are
 * protocolApplied.authority = Reference(IMMZ-Organization-enadult-f)
 //Vaccine name: Yellow-Fever
 //Series name: Yellow fever vaccine (product)
