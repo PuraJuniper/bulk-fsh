@@ -1,3 +1,6 @@
+#Note
+This fork creates test data for https://github.com/WorldHealthOrganization/smart-immunizations
+
 # Bulk FSH using Jinja2 Templates and Python
 
 This repo contains a worked example using Python to generate bulk FHIR Shorthand (FSH) instance files. The variables are replaced using Jinja2. 
