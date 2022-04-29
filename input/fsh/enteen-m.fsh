@@ -5,7 +5,7 @@ Usage:        #example
 // Description: ""
 * name[+].text = "protactiniumteen-m"
 * name[=].use = #official
-* birthDate = "2008-11-08"
+* birthDate = "2006-11-08"
 * gender = #male
 
 
@@ -28,7 +28,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -49,7 +49,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -70,7 +70,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -91,7 +91,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -112,7 +112,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -133,7 +133,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -154,7 +154,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -175,7 +175,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -196,7 +196,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -217,7 +217,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -238,7 +238,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -259,7 +259,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -280,7 +280,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -301,7 +301,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -322,7 +322,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -343,7 +343,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -364,7 +364,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -385,7 +385,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -406,7 +406,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -427,7 +427,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -448,7 +448,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -469,7 +469,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -490,7 +490,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
@@ -511,7 +511,7 @@ Usage: #example
 * lotNumber = "123"
 * patient = Reference(IMMZ-Patient-enteen-m)
 * location.display = "Vaccination Site"
-//Set to a random date between 2008-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
+//Set to a random date between 2006-11-08 (Patient birth date) to 2022-04-29 (date of test-case generation)
 * occurrenceDateTime =  "2013-11-17"
 * performer.actor = Reference(IMMZ-Organization-enteen-m)
 //check what protol applied requirements there are
